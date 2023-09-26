@@ -1,3 +1,5 @@
+The Dataset used (https://www.kaggle.com/datasets/ninzaami/loan-predication)
+
 # CodeClauseInternship_LoanPrediction
 The provided Python code is a machine learning script that performs classification on a dataset for loan approval prediction. Here's a summary of the key steps and actions in the code:
 
